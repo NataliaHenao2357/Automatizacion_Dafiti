@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BuscadorDafitiRunner" project="Dafiti" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="runners.BuscadorDafitiRunner" time="12.399">
+    <testsuite name="Feature: Buscar productos en la Pagina Dafiti" time="12.399">
+      <testcase name="Buscar Productos en el buscador Exitosamente" classname="Buscar productos en la Pagina Dafiti" time="12.399"/>
+    </testsuite>
+  </testsuite>
+</testrun>
